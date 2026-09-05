@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+streamlit
+python-dotenv
+gemini-genai
+pydantic
+fastapi
+uvicorn

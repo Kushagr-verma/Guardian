@@ -1,0 +1,18 @@
+.env
+.env.*
+!.env.example
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+frontend/.env.local.*
+
+.DS_Store
+
+archive (4).zip
+archive (4)/
